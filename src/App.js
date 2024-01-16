@@ -1,6 +1,6 @@
 import React, { Fragment, useState, useEffect } from "react"
 import axios from "axios"
-import "./styles/build.css"
+// import "./styles/build.css"
 import qs from "qs"
 import { Listbox, Transition } from "@headlessui/react"
 import { CheckIcon, ChevronUpDownIcon } from "@heroicons/react/20/solid"
