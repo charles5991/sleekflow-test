@@ -96,7 +96,7 @@ export default function App() {
           <div className="flex-grow w-full max-w-xs bg-gray-200 border-l border-r border-b flex flex-col">
             <div className="flex-shrink-0 px-2 py-8 items-center gap-8 flex-col bg-white">
               <p className="px-3 font-semibold text-xl">Contact</p>
-              <div className="relative m-4">
+              <div className="relative m-2 gap-3">
                 <input
                   placeholder="Find Your Series"
                   value={searchQuery}
